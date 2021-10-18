@@ -1,0 +1,16 @@
+{
+    "name": "ced/quete1_composer",
+    "description": "projet quete 1 composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cedric Pardon",
+            "email": "cedricp02@gmail.com"
+        }
+    ],
+    "require": {}
+}
